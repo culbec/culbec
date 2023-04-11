@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My name is Alexandru and I'm currently studying Computer Science 💻 at ### Babeș-Bolyai University.
+My name is Alexandru and I'm currently studying Computer Science 💻 at **_Babeș-Bolyai University_**.
 
 <!--
 **culbec/culbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
