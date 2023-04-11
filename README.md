@@ -3,7 +3,7 @@
 My name is **Alexandru** and I'm currently studying **_Computer Science_** 💻 at **_Babeș-Bolyai University_** in **_Cluj-Napoca, Romania_**.
 
 ![culbec's GitHub stats](https://github-readme-stats.vercel.app/api?username=culbec&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=culbec&layout=compact&theme=radical)
 
 <!--
 **culbec/culbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
