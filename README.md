@@ -4,7 +4,7 @@ My name is **Alexandru** and I'm currently studying **_Computer Science_** 💻 
 
 <!--[culbec's GitHub stats](https://github-readme-stats.vercel.app/api?username=culbec&show_icons=true&theme=nightowl)-->
 <p align = center>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=culbec&layout=compact&theme=radical)
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=culbec&layout=compact&theme=radical) />
 </p>
 
 
