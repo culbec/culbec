@@ -6,6 +6,3 @@ My name is **Alexandru** and I'm currently studying **_Computer Science_** 💻 
 <p align = center>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=culbec&layout=compact&theme=radical) />
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
