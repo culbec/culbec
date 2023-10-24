@@ -1,21 +1,13 @@
+<!---
 ### Greetings! 👋
 
 My name is **Alexandru** and I'm currently studying **_Computer Science_** 💻 at **_Babeș-Bolyai University_** in **_Cluj-Napoca, Romania_**.
 
 <!--[culbec's GitHub stats](https://github-readme-stats.vercel.app/api?username=culbec&show_icons=true&theme=nightowl)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=culbec&layout=compact&theme=radical)
-
-<!--
-**culbec/culbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
