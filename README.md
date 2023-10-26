@@ -18,7 +18,7 @@ My name is **Alexandru** and I'm currently studying **_Computer Science_** 💻 
 
 <!--START_SECTION:waka-->
 
-```rust
+```java c python c++
 From: 23 October 2023 - To: 25 October 2023
 
 Total Time: 0 secs
