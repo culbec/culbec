@@ -16,7 +16,7 @@
 
 <!-- Introduction -->
 <p align="center">
-      My name is <bold>Alexandru</bold> and I'm currently studying <bold><italic>Computer Science</italic></bold> 💻 at <bold><italic>Babeș-Bolyai University</italic></bold> in <bold><italic>Cluj-Napoca, Romania</italic></bold>.
+      My name is <b>Alexandru</b> and I'm currently studying <b><i>Computer Science</i></b> 💻 at <bold><italic>Babeș-Bolyai University</italic></bold> in <b><i>Cluj-Napoca, Romania</i></b>.
 </p>
 
 <!-- Social Media -->
