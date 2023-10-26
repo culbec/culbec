@@ -23,7 +23,6 @@
 
 <p align="center">
       <i>Let's get in touch!</i>
-</p>
 
 <p align="center">
       <a href="https://github.com/culbec"> 
