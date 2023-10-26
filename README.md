@@ -24,15 +24,15 @@ My name is **Alexandru** and I'm currently studying **_Computer Science_** 💻 
       <i>Let's get in touch!</i>
 </p>
 
-<p>
+<p align="center">
       <a href="https://github.com/culbec"> 
-            <img src="https://icons8.com/icon/v551nqGeHhGn/github"/>
+            <img src="https://icons8.com/icon/AZOZNnY73haj/github"/>
       </a>
       <a href="https://www.instagram.com/alex.profir/">
-            <img src="https://icons8.com/icon/32292/instagram"/>
+            <img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram"/>
       </a>
       <a href="https://www.linkedin.com/in/alexandru-profir-764916203/">
-            <img src="https://icons8.com/icon/447/linkedin"/>
+            <img src="https://icons8.com/icon/13930/linkedin"/>
       </a>
 </p>
 
