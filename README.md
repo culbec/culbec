@@ -26,13 +26,13 @@
 
 <p align="center">
       <a href="https://github.com/culbec"> 
-            <img src="![image](https://github.com/culbec/culbec/assets/67468709/42dd4ecd-b9b7-4d6c-9909-785605d6a310)"/>
+            <img src="https://github.com/culbec/culbec/assets/67468709/42dd4ecd-b9b7-4d6c-9909-785605d6a310"/>
       </a>
       <a href="https://www.instagram.com/alex.profir/">
-            <img src="![image](https://github.com/culbec/culbec/assets/67468709/0b5f9a61-b680-46b9-8f3f-412450394b9a)"/>
+            <img src="https://github.com/culbec/culbec/assets/67468709/0b5f9a61-b680-46b9-8f3f-412450394b9a"/>
       </a>
       <a href="https://www.linkedin.com/in/alexandru-profir-764916203/">
-            <img src="![image](https://github.com/culbec/culbec/assets/67468709/04ee3b6a-cba8-4f31-a6ec-4d1984da1bf6)"/>
+            <img src="https://github.com/culbec/culbec/assets/67468709/04ee3b6a-cba8-4f31-a6ec-4d1984da1bf6"/>
       </a>
 </p>
 
