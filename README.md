@@ -14,7 +14,27 @@
 
 </pre>
 
+<!-- Introduction -->
+
 My name is **Alexandru** and I'm currently studying **_Computer Science_** 💻 at **_Babeș-Bolyai University_** in **_Cluj-Napoca, Romania_**.
+
+<!-- Social Media -->
+
+<p align="center">
+      <i>Let's get in touch!</i>
+</p>
+
+<p>
+      <a href="https://github.com/culbec"> 
+            <img src="https://icons8.com/icon/v551nqGeHhGn/github"/>
+      </a>
+      <a href="https://www.instagram.com/alex.profir/">
+            <img src="https://icons8.com/icon/32292/instagram"/>
+      </a>
+      <a href="https://www.linkedin.com/in/alexandru-profir-764916203/">
+            <img src="https://icons8.com/icon/447/linkedin"/>
+      </a>
+</p>
 
 <!--START_SECTION:waka-->
 
