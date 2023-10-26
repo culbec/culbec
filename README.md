@@ -26,7 +26,7 @@
 
 <p align="center">
       <a href="https://github.com/culbec"> 
-            <img src="https://icons8.com/icon/AZOZNnY73haj/github"/>
+            <img src="https://icons8.com/icon/106562/github"/>
       </a>
       <a href="https://www.instagram.com/alex.profir/">
             <img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram"/>
