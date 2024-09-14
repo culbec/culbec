@@ -41,12 +41,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-Total Time: 4 hrs 9 mins
+Total Time: 5 hrs 2 mins
 
-Python     4 hrs 8 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.38 %
-Markdown   1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.62 %
+Python     4 hrs 49 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.82 %
+Markdown   12 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.18 %
 ```
 
 <!--END_SECTION:waka-->
