@@ -41,12 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
-Total Time: 33 mins
+Total Time: 0 secs
 
-Dart         32 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.05 %
-Git Config   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
